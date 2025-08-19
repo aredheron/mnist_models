@@ -10,6 +10,8 @@ This project includes:
 - **Diffusion Model**
 - **GAN Model** (work in progress)
 
+The classifier is based on the guide https://www.geeksforgeeks.org/machine-learning/handwritten-digit-recognition-using-neural-network/.
+
 ## Project Structure
 
 ```
@@ -57,7 +59,7 @@ Digit_recognition/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mnist_models.git
+   git clone https://github.com/aredheron/mnist_models.git
    cd mnist_models
    ```
 
